@@ -26,5 +26,3 @@ IDE cheat sheet
 - Auto-complete code `Ctrl + Space`
 
 - Complete the current statement `Ctrl + Shift + Enter`
-
-- 
