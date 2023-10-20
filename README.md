@@ -7,7 +7,7 @@ IDE cheat sheet
 
 - For find inside current file `Ctrl + F`
 
-- For find inside project `Ctrl + Shift + f`
+- For find inside project `Ctrl + Shift + F`
 
 - For replace inside current file `Ctrl + R`
 
