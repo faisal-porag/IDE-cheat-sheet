@@ -31,6 +31,8 @@ IDE cheat sheet
 
 - Add a cursor down `Ctrl + Alt + Down Arrow`
 
+- Line duplicate `Ctrl + D`
+
 ---
 
 > VS Code
