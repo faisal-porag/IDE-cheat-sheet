@@ -33,6 +33,14 @@ IDE cheat sheet
 
 - Line duplicate `Ctrl + D`
 
+- Basic Code Completion: `Ctrl + Space`
+
+- Smart Code Completion: `Ctrl + Shift + Space`
+
+- Comment/Uncomment Lines: `Ctrl + /`
+
+- Reformat Code: `Ctrl + Alt + L`
+
 ---
 
 > VS Code
