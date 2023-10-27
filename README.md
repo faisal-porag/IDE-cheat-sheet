@@ -41,6 +41,8 @@ IDE cheat sheet
 
 - Reformat Code: `Ctrl + Alt + L`
 
+- Recent Files: `Ctrl + E`
+
 ---
 
 > VS Code
