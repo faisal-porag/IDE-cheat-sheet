@@ -9,9 +9,9 @@ IDE cheat sheet
 
 - For find inside project `Ctrl + Shift + F`
 
-- For replace inside current file `Ctrl + R`
+- For find and replace inside current file `Ctrl + R`
 
-- For replace inside project `Ctrl + Shift + R`
+- For find and replace inside project `Ctrl + Shift + R`
 
 - Duplicate current line or selection ` Ctrl + D`
 
