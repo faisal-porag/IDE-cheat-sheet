@@ -49,33 +49,33 @@ IDE cheat sheet
 
 General Editing Shortcuts:
 
-- Ctrl + S (Cmd + S on macOS): Save the current file.
+- `Ctrl + S (Cmd + S on macOS)`: Save the current file.
   
-- Ctrl + Z (Cmd + Z on macOS): Undo the last change.
+- `Ctrl + Z (Cmd + Z on macOS)`: Undo the last change.
 
-- Ctrl + Shift + Z (Cmd + Shift + Z on macOS): Redo the last undone change.
+- `Ctrl + Shift + Z (Cmd + Shift + Z on macOS)`: Redo the last undone change.
 
-- Ctrl + X (Cmd + X on macOS): Cut selected text or line.
+- `Ctrl + X (Cmd + X on macOS)`: Cut selected text or line.
   
-- Ctrl + C (Cmd + C on macOS): Copy selected text or line.
+- `Ctrl + C (Cmd + C on macOS)`: Copy selected text or line.
   
-- Ctrl + V (Cmd + V on macOS): Paste text.
+- `Ctrl + V (Cmd + V on macOS)`: Paste text.
   
-- Ctrl + F (Cmd + F on macOS): Find.
+- `Ctrl + F (Cmd + F on macOS)`: Find.
   
-- Ctrl + H (Cmd + H on macOS): Replace.
+- `Ctrl + H (Cmd + H on macOS)`: Replace.
   
-- Ctrl + D (Cmd + D on macOS): Select the next occurrence of the current word.
+- `Ctrl + D (Cmd + D on macOS)`: Select the next occurrence of the current word.
   
-- Ctrl + U (Cmd + U on macOS): Undo the last cursor operation.
+- `Ctrl + U (Cmd + U on macOS)`: Undo the last cursor operation.
   
-- Alt + Up Arrow (Option + Up Arrow on macOS): Move the current line up.
+- `Alt + Up Arrow (Option + Up Arrow on macOS)`: Move the current line up.
   
-- Alt + Down Arrow (Option + Down Arrow on macOS): Move the current line down.
+- `Alt + Down Arrow (Option + Down Arrow on macOS)`: Move the current line down.
   
-- Ctrl + / (Cmd + / on macOS): Toggle line comment.
+- `Ctrl + / (Cmd + / on macOS)`: Toggle line comment.
   
-- Ctrl + Shift + K (Cmd + Shift + K on macOS): Delete the current line.
+- `Ctrl + Shift + K (Cmd + Shift + K on macOS)`: Delete the current line.
 
 - Directory search `Ctrl + Shift + F`
 
