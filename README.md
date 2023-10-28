@@ -77,5 +77,5 @@ General Editing Shortcuts:
   
 - `Ctrl + Shift + K (Cmd + Shift + K on macOS)`: Delete the current line.
 
-- Directory search `Ctrl + Shift + F`
+- `Ctrl + Shift + F`: Directory search.
 
