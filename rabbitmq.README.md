@@ -8,6 +8,7 @@ architecture, message queues, and more. By the end of this blog post, you should
 
 
 >1. How do you configure RabbitMQ to ensure high availability?
+
 To ensure high availability in RabbitMQ, there are several configuration steps that need to be taken.
 
 First, you should configure a cluster of RabbitMQ nodes. This will allow for the nodes to share the workload and provide redundancy in case of a node failure. 
@@ -27,6 +28,7 @@ By taking these steps, you can ensure that RabbitMQ is highly available and can 
 ---
 
 >2. What is the difference between a queue and an exchange in RabbitMQ?
+
 A queue in RabbitMQ is a buffer that stores messages sent by producers until they are consumed by consumers. Queues are the main building blocks 
 of RabbitMQ and are used to store messages in a reliable way.
 
@@ -39,6 +41,7 @@ and routes them to queues based on rules defined by the exchange type.
 ---
 
 >3. How do you monitor RabbitMQ performance?
+
 As a RabbitMQ developer, I monitor RabbitMQ performance by using the RabbitMQ Management Plugin. This plugin provides a web-based UI that allows me to monitor the 
 performance of my RabbitMQ server. I can view the number of messages in the queue, the rate of message delivery, the number of connections, and the number of channels. 
 I can also view the memory and disk usage of the server, as well as the number of messages that have been published and consumed. Additionally, I can view the performance 
@@ -48,6 +51,7 @@ of individual queues, exchanges, and bindings. This allows me to quickly identif
 
 
 >4. How do you handle message routing in RabbitMQ?
+
 Message routing in RabbitMQ is handled using exchanges and queues. Exchanges are the entry point for messages into RabbitMQ and are responsible for 
 routing messages to queues based on the routing key. Queues are the containers that hold the messages until they are consumed by a consumer.
 
