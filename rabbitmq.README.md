@@ -68,6 +68,25 @@ These features can be used to ensure that messages are routed correctly and that
 
 ---
 
+>5. What is Advanced Message Queuing Protocol (AMQP) ?
+
+The Advanced Message Queuing Protocol (AMQP) is an open standard application layer protocol for message-oriented middleware. AMQP 0-9-1 is a binary messaging protocol and semantic framework for microservices and enterprise messaging. RabbitMQ is based on AMQP 0-9-1 Protocol. RabbitMQ supports -
+- AMQP 0-9-1
+- AMQP 1.0
+- MQTT
+- STOMP
+- HTTP
+
+  ![image](https://github.com/faisal-porag/IDE-cheat-sheet/blob/master/uploads/rabbit-min.jpeg)
+
+---
+
+
+
+
+
+
+
 
 
 
