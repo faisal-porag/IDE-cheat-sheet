@@ -77,9 +77,40 @@ The Advanced Message Queuing Protocol (AMQP) is an open standard application lay
 - STOMP
 - HTTP
 
-  ![image](https://github.com/faisal-porag/IDE-cheat-sheet/blob/master/uploads/rabbit-min.jpeg)
+![image](https://github.com/faisal-porag/IDE-cheat-sheet/blob/master/uploads/rabbit-min.jpeg)
+
 
 ---
+
+>6. What are the types of exchanges available in RabbitMQ?
+
+There are 4 types of exchanges available in RabbitMQ.
+  - ###Direct - Based on the routing key a message is sent to the binding queue having the same routing key.
+    The routing key of exchange and the binding queue have to be an exact match.
+
+  ![direct_image](https://github.com/faisal-porag/IDE-cheat-sheet/blob/master/uploads/header1-min.jpeg)
+
+  - ###Fanout - The message is routed to all the available bounded queues. The routing key if provided is completely ignored.
+    So this is a kind of publishe-subscribe design pattern.
+    
+  ![fanout_image](https://github.com/faisal-porag/IDE-cheat-sheet/blob/master/uploads/header2-min.jpeg)
+
+  - ###Topic - Here again the routing key is made use of. But unlike in direct exchange type, here the routing key of the exchange and the
+    bound queues should not necessarily be an exact match. Using regular expressions like wildcard we can send the exchange to multiple bound queues.
+    
+  ![topic_image](https://github.com/faisal-porag/IDE-cheat-sheet/blob/master/uploads/header3-min.jpeg)
+
+  - ###Headers - In this type of exchange the routing queue is selected based on the criteria specified in the headers instead of
+    the routing key. This is similar to topic exchange type, but here we can specify complex criteria for selecting routing queues.
+    
+  ![header_image](https://github.com/faisal-porag/IDE-cheat-sheet/blob/master/uploads/header4-min.jpeg)
+
+
+---
+
+
+  
+
 
 
 
